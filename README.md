@@ -6,12 +6,37 @@ This kernal focuses on the fariness of exposure, i.e., how to recommend items th
 
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG364.jpeg)
 
+
+
+
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG363.jpeg)
+
+
+
+
 
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG365.jpeg)
 
+
+
+
+
+
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG366.jpeg)
+
+
+
+
+
 
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG367.jpeg)
 
+
+
+
+
+
 ![image](https://github.com/jelena0521/recall-rank/blob/master/PIC/WechatIMG368.jpeg)
+
+
+
